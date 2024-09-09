@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/davila_gitpages/static/css/main.f855e6bc.css",
+    "main.js": "/davila_gitpages/static/js/main.d2a5b71f.js",
+    "static/js/453.49a09da4.chunk.js": "/davila_gitpages/static/js/453.49a09da4.chunk.js",
+    "static/media/logo.svg": "/davila_gitpages/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/davila_gitpages/index.html",
+    "main.f855e6bc.css.map": "/davila_gitpages/static/css/main.f855e6bc.css.map",
+    "main.d2a5b71f.js.map": "/davila_gitpages/static/js/main.d2a5b71f.js.map",
+    "453.49a09da4.chunk.js.map": "/davila_gitpages/static/js/453.49a09da4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.d2a5b71f.js"
+  ]
+}
