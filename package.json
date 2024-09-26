@@ -2,7 +2,6 @@
   "name": "davila_gitpages",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://guayaba15.github.io/davila_gitpages/build",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
